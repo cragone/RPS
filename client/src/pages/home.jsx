@@ -1,4 +1,5 @@
-import React from 'react';
+import React, { useState } from 'react';
+
 // Rock Paper Scissors component
 const Home = () => {
   // State to track user choice and computer choice
