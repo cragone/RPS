@@ -4,6 +4,7 @@ import "fmt"
 
 // Main function
 func main() {
-	fmt.Println("Welcome to GeeksforGeeks!")
-	fmt.Println("Thanks for visiting us!")
+	var fist string
+	fist = "rock"
+	fmt.Println("Rock, Paper, Scissors, and shoot", fist)
 }
